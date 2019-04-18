@@ -1,6 +1,8 @@
 # 0ddchat
 ## A fully working H5 chatroom implementation with encryption.
 
+中文版本 https://github.com/shawhu/0ddchat/blob/master/README_CN.me
+
 Demo video
 
 https://youtu.be/dWfZhD3vOHc
