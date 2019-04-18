@@ -1,6 +1,9 @@
 # 0ddchat
 A fully working H5 chatroom implementation with encryption.
 
+Create a room, invites, post some photo and videos, change the background, etc
+
+
 - the chatrom client is a web app. It can be run on Google Chrome, Safari, Android Google Chrome, iOS Safari, Opera and many more. Wechat even but we do __NOT__ recommend doing so.
 - ALL transmittions between the relay server and the clients are encrypted with dynamically changing keys (based on AES)
 - The relay server doesn't have access to any keys used to encrypt transmissions.
