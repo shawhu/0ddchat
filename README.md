@@ -1,7 +1,9 @@
 # 0ddchat
 A fully working H5 chatroom implementation with encryption.
 
-Create a room, invites, post some photo and videos, change the background, etc
+Demo video
+
+https://youtu.be/dWfZhD3vOHc
 
 
 - the chatrom client is a web app. It can be run on Google Chrome, Safari, Android Google Chrome, iOS Safari, Opera and many more. Wechat even but we do __NOT__ recommend doing so.
